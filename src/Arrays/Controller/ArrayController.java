@@ -12,6 +12,7 @@ public class ArrayController
 	}
 	public void start()
 	{
+		//yuh
 		System.out.println(numbers);
 		System.out.println(words);
 		
